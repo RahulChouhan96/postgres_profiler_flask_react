@@ -2,6 +2,12 @@
 
 1. Clone the app https://github.com/RahulChouhan96/postgres_profiler_flask_react.git
 
+
+## Technologies Used
+**Backend** - Flask, Python, SQLAlchemy
+**Database** - Postgres
+**Frontend** - React and JavaScript
+
 ## Setup Backend
 1. `cd flask-server`
 2. `python -m venv venv`
