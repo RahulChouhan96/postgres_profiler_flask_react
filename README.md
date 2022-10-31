@@ -5,7 +5,9 @@
 
 ## Technologies Used
 **Backend** - Flask, Python, SQLAlchemy
+
 **Database** - Postgres
+
 **Frontend** - React and JavaScript
 
 ## Setup Backend
